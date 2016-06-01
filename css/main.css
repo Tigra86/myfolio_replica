@@ -265,6 +265,18 @@ footer p {
 }
 
 
+@media (max-width: 603px) {
+	nav > ul > li {
+		padding: 0 6px;
+	}
+}
+
+
+@media (max-width: 540px) {
+	nav > ul > li {
+		display: none;
+	}
+}
 
 
 
